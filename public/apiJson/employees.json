@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "user_type":"waiter",
+        "name":"Amruth"
+    },
+    {
+        "id":2,
+        "user_type":"waiter",
+        "name":"Gudiya"
+    },
+    {
+        "id":3,
+        "user_type":"HR",
+        "name":"Pradhipa"
+    },
+    {
+        "id":4,
+        "user_type":"waiter",
+        "name":"Guru"
+    },  {
+        "id":4,
+        "user_type":"waiter",
+        "name":"sachin"
+    }
+]
